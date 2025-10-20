@@ -1,6 +1,6 @@
 # SPINE
 
-Prototype of a software architecture that enables direct manipulation (declarative / reactive)
+Prototype of a programming language and software architecture that enables direct manipulation (declarative / reactive)
 
  * [Introduction](https://teadrinker.net/spine/)
  * [Examples](https://teadrinker.net/spine/#examples)
